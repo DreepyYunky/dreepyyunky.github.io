@@ -1,0 +1,11 @@
+/* General styles for my website */
+
+.main-menu {
+	overflow: hidden;
+	border: 1px solid #ccc
+	background-color: #f1f1f1;
+}
+
+.main-menu a {
+	background-color: fixed;
+}
